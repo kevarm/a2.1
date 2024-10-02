@@ -2,6 +2,7 @@
 <html>
     <body>
         <?php 
+        //Esto es un comentario realizado por Kevin en la actividad de David
             function prime ($number) {
                 $counter = 0;
                 for ($i=$number; $i > 0 ; $i--) { 
