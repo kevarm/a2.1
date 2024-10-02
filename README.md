@@ -5,6 +5,6 @@ Hello World!
 
 Esto está siendo añadido por Kevin
 
-Componentes del grupo:
-Ángel David Acosta Betancor
+Componentes del grupo:  
+Ángel David Acosta Betancor  
 Kevin Armas Roque
