@@ -2,8 +2,9 @@
 <html>
     <body>
         <?php 
-        //Esto es un comentario realizado por Kevin en la actividad de David
-        //Intentando provocar conflicto
+            //Esto es un comentario realizado por Kevin en la actividad de David
+            //Test de conflicto
+            //Intentando provocar conflicto
             function prime ($number) {
                 $counter = 0;
                 for ($i=$number; $i > 0 ; $i--) { 
